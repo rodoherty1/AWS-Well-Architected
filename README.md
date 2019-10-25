@@ -13,7 +13,7 @@ The whitepaper presents an organised **collection of best-practices and core str
 
 Many of the practices described translate well to on-prem solutions.
 
-## General practices / Recurring themes
+## General practices / Re-occurring themes
 * Working back from the customer (#customer obsessed).  
 * Data-driven decisions - stop guessing capacity
 * Test at production scale
