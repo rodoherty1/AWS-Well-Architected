@@ -80,23 +80,23 @@ For each practice, AWS provide specific questions and practices that can be empl
 
 
 ## Final Thoughts
-As we prepare to further leverage public cloud, some familiarity with this whitepaper would be good preparation for any conversations with:
-* Product Owners
-* Infrastructure
-* Security
-* Solutions Architects
-* Pipeline management
-
-It turns out that AWS services can be used to solve all the questions posed in this whitepaper.
-
-* Infrastructure as code
-* S3 Storage Classes and Lifecycle rules
-* Log storage
-* Caching services (Elasticache, API gateway, Dynamo DB)
-* Replication of data (S3, DynamoDb, RDS)
-* Security at all levels of each service.
-* Everything is available via Console , API and SDK
-* Compute available as VMs, containers or functions.
+* This doc is an easy read.
+* Many of the practices here can be applied to on-prem projects.
+* Familiarity with this whitepaper would be good preparation for any conversations with:
+  * Product Owners
+  * Infrastructure
+  * Security
+  * Solutions Architects
+  * Pipeline management
+* It turns out that AWS services can be used to solve all the questions posed in this whitepaper.
+  * Infrastructure as code
+  * S3 Storage Classes and Lifecycle rules
+  * Log storage
+  * Caching services (Elasticache, API gateway, Dynamo DB)
+  * Replication of data (S3, DynamoDb, RDS) 
+  * Security at all levels of each service.
+  * Everything is available via Console , API and SDK
+  * Compute available as VMs, containers or functions.
 
 ## Small note on how AWS work
 Each team in AWS is given the capability to build their own application (workloads) as they see fit.
