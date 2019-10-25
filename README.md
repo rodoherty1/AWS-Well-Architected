@@ -31,8 +31,8 @@ AWS's wisdom is distributed among 5 pillars.
 
 ## General treatment of each pillar 
 Each pillar comprises 
-* A small set of Design Principles - general guidelines
-* A list of Best Practices for each Design Principle - guidelines to help expose the areas you want to address. 
+* Some Design Principles - general guidelines
+* A list of Best Practices - specific guidelines to help expose the areas you want to address. 
 * Key AWS Services that address can be used to implement each practice
 
 ### Example: Design Principles of Operational Excellence
