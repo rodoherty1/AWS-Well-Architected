@@ -80,7 +80,7 @@ For each practice, AWS provide specific questions and practices that can be empl
 
 
 ## Final Thoughts
-* This doc is an easy read.
+* The is an overview of AWS's experience and advice - why would you ignore that?
 * Many of the practices here can be applied to on-prem projects.
 * Familiarity with this whitepaper would be good preparation for any conversations with:
   * Product Owners
