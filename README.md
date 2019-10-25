@@ -1,9 +1,15 @@
 # AWS Well-Architected Framework 
 
 ## Intro
+[The Well-Architected Framework whitepaper](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
+
 AWS have produced a series of whitepapers under the collective title "Well Architected Framework".
 
-The series presents an organised collection of best-practices and core strategies for building systems in the cloud.
+The whitepaper's goal is to **help you build robust, performant, well thought out solutions** that addresses one of your business's priorities.
+
+It does this by **posing a large collection of questions** that you should ask yourself throughout the lifecycle of the workload that you are building.
+
+The whitepaper presents an organised **collection of best-practices and core strategies** for building systems in the cloud.
 
 Many of the practices described translate well to on-prem solutions.
 
@@ -49,15 +55,18 @@ For each practice, AWS provide specific questions and practices that can be empl
 ### Sample Questions:
 #### Operational Excellence
 [How do you determine what your priorities are?](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf#page=48)
+
 [How do you design your workload you can understand its state?](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf#page=49)
+
 [How do you know you are ready to support a workload?](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf#page=52)
 
 #### Security
 [How do you protect your networks?](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf#page=61)
+
 [How do you protect your compute resources?](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf#page=61)
 
 ### Reliability
-[How do your system withstand component failures?](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf#page=69)
+[How does your system withstand component failures?](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf#page=69)
 
 #### Performance Efficiency
 [How do you evolve your workload to take advantage of new releases?](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf#page=76)
@@ -71,13 +80,17 @@ For each practice, AWS provide specific questions and practices that can be empl
 
 
 ## Final Thoughts
-We have separate groups in TT for managing infrastructure, security and pipelines.
+As we prepare to further leverage public cloud, some familiarity with this whitepaper would be good preparation for any conversations with:
+* Product Owners
+* Infrastructure
+* Security
+* Solutions Architects
+* Pipeline management
 
-A familiarity of these papers would be good preparation for any discussions with any of these groups.
+It turns out that AWS services can be used to solve all the questions posed in this whitepaper.
 
-AWS offer a breadth of services that appear to perfectly address many of the questions posed in this doc.
 * Infrastructure as code
-* S3 Storage Classes
+* S3 Storage Classes and Lifecycle rules
 * Log storage
 * Caching services (Elasticache, API gateway, Dynamo DB)
 * Replication of data (S3, DynamoDb, RDS)
