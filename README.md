@@ -29,10 +29,11 @@ AWS's wisdom is distributed among 5 pillars.
 * Performance Efficiency - Use resources efficiently
 * Cost Optimisation - Deploy and run your workload at the lowest price point.
 
-## General treatment of each pillar 
+## General structure of each pillar 
 Each pillar comprises 
 * Some Design Principles - general guidelines
 * A list of Best Practices - specific guidelines to help expose the areas you want to address. 
+* A small list of questions you should ask yourself
 * Key AWS Services that address can be used to implement each practice
 
 ### Example: Design Principles of Operational Excellence
