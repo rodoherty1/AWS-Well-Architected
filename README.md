@@ -57,7 +57,8 @@ Each pillar comprises
 * A small list of questions you should ask yourself
 * Key AWS Services that can be used to implement each practice
 
-### Example: Design Principles of Operational Excellence
+## Operational Excellence
+### Design Principles of Operational Excellence
 [Operational Excellence Pillar](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf#page=6)
 * Perform operations as code
 * Annotate documentation
@@ -66,7 +67,7 @@ Each pillar comprises
 * Use Game Days to help anticipate failure
 * Learn from all ops failures.
 
-### Example: Best practices of Operational Excellence
+### Best practices of Operational Excellence
 Best practices of Operational Excellence are grouped into
 * Prepare
 * Operate
@@ -74,8 +75,7 @@ Best practices of Operational Excellence are grouped into
 
 For each practice, AWS provide specific questions and practices that can be employed to help provide an answer to each question.
  
-### Sample Questions:
-#### Operational Excellence
+### Operational Excellence - Sample Questions
 [How do you determine what your priorities are?](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf#page=48)
 
 [How do you design your workload you can understand its state?](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf#page=49)
