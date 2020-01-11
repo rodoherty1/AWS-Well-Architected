@@ -68,15 +68,19 @@ Each pillar comprises
 * Learn from all ops failures.
 
 ### Best practices of Operational Excellence
-Operations teams need to understand their business and customer needs so that they can effectively nd efficiently support business outcomes.
-
-Operations creates and uses procedures to respond to operational events.
-
-Operations validates that operational procedures support business needs. 
-
-Operations collects metrics that are used to used to measure the achievement of desired business outcomes.
+* Operations teams need to understand their business and customer needs so that they can effectively nd efficiently support business outcomes.
+* Operations creates and uses procedures to respond to operational events.
+* Operations validates that operational procedures support business needs. 
+* Operations collects metrics that are used to used to measure the achievement of desired business outcomes.
 
 #### Opertional Excellence - Prepare
+* Business, Development and Operations must have a shared goals and a shared understanding of the customer needs and business requirements that relate to the workload being supported.
+* Design workloads that can be monitored and inspected (troubleshooting / easily understood) with respect to the requirements as well as customer experience and behaviour.
+* Demonstrate through metrics and procedures that an application is ready to move into production and be supported by operations.
+* Practise using Game Days.
+* Infrastructure as code using CloudFormation so that you can replicate your workload in different environments.
+* Collect logs in Cloudwatch, CloudTrail and VPC Flow Logs.
+* Minimise the number of architecture standards which each add complexity to a workload.  More burden on dev and ops.
 
 #### Opertional Excellence - Operate
 
