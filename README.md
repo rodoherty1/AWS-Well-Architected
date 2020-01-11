@@ -83,6 +83,13 @@ Each pillar comprises
 * Minimise the number of architecture standards which each add complexity to a workload.  More burden on dev and ops.
 
 #### Opertional Excellence - Operate
+* Define business and customer outcomes that will determine if operations are successful.
+* Identify the workload and operations metrics that will determine if operations are successful.
+* Use runbooks for well understood events.
+* Use playbooks to aid in the resolution of other events.
+* Use dashboards and notifications to communicate the health of your workloads.
+* Tailor the dashboards and notifications to their target audience.
+* 
 
 #### Opertional Excellence - Evolve
 
