@@ -13,6 +13,27 @@ The whitepaper presents an organised **collection of best-practices and core str
 
 Many of the practices described translate well to on-prem solutions.
 
+## Glossary
+  **Component**
+  
+   * Code, configuraion and AWS Resources that together deliver against a requirement.
+   * Is a unit of technical ownership
+   * Is decoupled from other components
+  
+  **Workload**
+  
+   * Identifies a set of components that together deliver business value
+   * Is at a level that business and technology leaders talk about.
+   
+  **Architecture**
+  
+   * How components work together in a workload.
+   * Represented by architecture diagrams.
+   
+  **Technology Portfolio**
+  
+   * A collection of workloads that are required for the business to operate.
+  
 ## General practices / Re-occurring themes
 * Working back from the customer (#customer obsessed).  
 * Data-driven decisions - stop guessing capacity
