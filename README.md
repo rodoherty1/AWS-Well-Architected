@@ -68,10 +68,20 @@ Each pillar comprises
 * Learn from all ops failures.
 
 ### Best practices of Operational Excellence
-Best practices of Operational Excellence are grouped into
-* Prepare
-* Operate
-* Evolve    
+Operations teams need to understand their business and customer needs so that they can effectively nd efficiently support business outcomes.
+
+Operations creates and uses procedures to respond to operational events.
+
+Operations validates that operational procedures support business needs. 
+
+Operations collects metrics that are used to used to measure the achievement of desired business outcomes.
+
+#### Opertional Excellence - Prepare
+
+#### Opertional Excellence - Operate
+
+#### Opertional Excellence - Evolve
+
 
 For each practice, AWS provide specific questions and practices that can be employed to help provide an answer to each question.
  
