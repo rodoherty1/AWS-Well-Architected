@@ -125,5 +125,6 @@ Each team in AWS is given the capability to build their own application (workloa
 To ensure success, AWS put in-place
  1) experts into each team to ensure that practices are being met
  2) automated-checks to ensure that standards are met.
+ 3) Regular lunchtime talks that focus on applying best practices to real examples.
  
 There are also a virtual team of principal engineers who are available to review designs and discuss options.
