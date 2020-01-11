@@ -34,7 +34,7 @@ Each pillar comprises
 * Some Design Principles - general guidelines
 * A list of Best Practices - specific guidelines to help expose the areas you want to address. 
 * A small list of questions you should ask yourself
-* Key AWS Services that address can be used to implement each practice
+* Key AWS Services that can be used to implement each practice
 
 ### Example: Design Principles of Operational Excellence
 [Operational Excellence Pillar](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf#page=6)
