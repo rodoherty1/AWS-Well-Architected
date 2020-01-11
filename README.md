@@ -5,7 +5,7 @@
 
 AWS have produced a series of whitepapers under the collective title "Well Architected Framework".
 
-The whitepaper's goal is to **help you build robust, performant, well thought out solutions** that addresses one of your business's priorities.
+The whitepaper's goal is to **help you build robust, performant, well thought out solutions** that address one of your business's priorities.
 
 It does this by **posing a large collection of questions** that you should ask yourself throughout the lifecycle of the workload that you are building.
 
@@ -21,13 +21,13 @@ Many of the practices described translate well to on-prem solutions.
 * Game days - test/rehearse/improve runbooks.
 * Detailed logs (audit, architecture state, workload)
 
-## The 5 Pillars of the Framework
+## The 5 Pillars of the Framework (P R O C S)
 AWS's wisdom is distributed among 5 pillars.
-* Operational Excellence - Run, monitor and maintain your workloads. 
-* Security - Protect information, workloads and assets.
-* Reliability - Mitigate disruption and recover from failure
 * Performance Efficiency - Use resources efficiently
+* Reliability - Mitigate disruption and recover from failure
+* Operational Excellence - Run, monitor and maintain your workloads. 
 * Cost Optimisation - Deploy and run your workload at the lowest price point.
+* Security - Protect information, workloads and assets.
 
 ## General structure of each pillar 
 Each pillar comprises 
