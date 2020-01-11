@@ -23,11 +23,11 @@ Many of the practices described translate well to on-prem solutions.
 
 ## The 5 Pillars of the Framework (P R O C S)
 AWS's wisdom is distributed among 5 pillars.
-* Performance Efficiency - Use resources efficiently
-* Reliability - Mitigate disruption and recover from failure
-* Operational Excellence - Run, monitor and maintain your workloads. 
-* Cost Optimisation - Deploy and run your workload at the lowest price point.
-* Security - Protect information, workloads and assets.
+* **P**erformance Efficiency - Use resources efficiently
+* **R**eliability - Mitigate disruption and recover from failure
+* **O**perational Excellence - Run, monitor and maintain your workloads. 
+* **C**ost Optimisation - Deploy and run your workload at the lowest price point.
+* **S**ecurity - Protect information, workloads and assets.
 
 ## General structure of each pillar 
 Each pillar comprises 
