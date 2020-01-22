@@ -89,13 +89,14 @@ Each pillar comprises
 * Use playbooks to aid in the resolution of other events.
 * Use dashboards and notifications to communicate the health of your workloads.
 * Tailor the dashboards and notifications to their target audience.
-* 
+
 
 #### Opertional Excellence - Evolve
-
+* TBC
 
 For each practice, AWS provide specific questions and practices that can be employed to help provide an answer to each question.
- 
+
+
 ### Operational Excellence - Sample Questions
 [How do you determine what your priorities are?](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf#page=48)
 
@@ -103,7 +104,7 @@ For each practice, AWS provide specific questions and practices that can be empl
 
 [How do you know you are ready to support a workload?](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf#page=52)
 
-#### Security
+### Security
 [How do you protect your networks?](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf#page=61)
 
 [How do you protect your compute resources?](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf#page=61)
@@ -111,10 +112,10 @@ For each practice, AWS provide specific questions and practices that can be empl
 ### Reliability
 [How does your system withstand component failures?](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf#page=69)
 
-#### Performance Efficiency
+### Performance Efficiency
 [How do you evolve your workload to take advantage of new releases?](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf#page=76)
 
-#### Cost Optimisation
+### Cost Optimisation
 [How do you decommission resources?](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf#page=81)
 
 
