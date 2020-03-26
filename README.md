@@ -16,7 +16,7 @@ Many of the practices described translate well to on-prem solutions.
 ## Glossary
   **Component**
   
-   * Code, configuraion and AWS Resources that together deliver against a requirement.
+   * Code, configuration and AWS Resources that together deliver against a requirement.
    * Is a unit of technical ownership
    * Is decoupled from other components
   
